@@ -15,7 +15,7 @@ A simple and responsive demo project showcasing basic **CRUD operations** using 
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Angular 17, Bootstrap 5, Font Awesome  
+- **Frontend**: Angular 16, Bootstrap 5, Font Awesome  
 - **Backend**: JSON-Server (mock API)
 
 ---
