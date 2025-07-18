@@ -1,27 +1,29 @@
-# AngularAPIs
+# 🎓 Angular CRUD Demo Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.10.
+A simple and responsive demo project showcasing basic **CRUD operations** using **Angular** for the frontend and **JSON-Server** as a mock RESTful API.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🚀 Features
 
-## Code scaffolding
+- ✅ **Add, edit, and delete students**  
+- ✅ **Form validation** using Bootstrap  
+- ✅ **Responsive UI** with Font Awesome icons  
+- ✅ **Mock RESTful API** powered by `json-server`  
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 🛠️ Tech Stack
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- **Frontend**: Angular 17, Bootstrap 5, Font Awesome  
+- **Backend**: JSON-Server (mock API)
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 📸 Screenshots
 
-## Running end-to-end tests
+### 🏠 Home Page
+<img width="1920" height="768" alt="Home" src="https://github.com/user-attachments/assets/3d675505-9423-4774-b3f9-905b93a7f18b" />
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### ➕ Add Student Page
+<img width="1920" height="744" alt="Add Student" src="https://github.com/user-attachments/assets/48113f8f-de34-4a61-8ace-b84f7b5b51cd" />
